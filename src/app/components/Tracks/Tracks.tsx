@@ -58,12 +58,12 @@ export const Tracks = ({ data }: { data: APIResponse }) => {
               </tbody>
             </table>
           </section>
-            <section className="mx-auto bg-gradient-to-br from-black via-gray-950 to-yellow-900 text-white p-8 flex flex-col items-center">
+            <section className="mx-auto bg-gradient-to-br from-black via-gray-950 text-white p-8 flex flex-col items-center">
             <h2 className="text-4xl font-extrabold mb-6 text-yellow-400 drop-shadow-lg tracking-wide animate-pulse">
               Welcome to my abyss
             </h2>
             <div className="relative w-full flex justify-center mb-8">
-              <div className="absolute -inset-2 bg-yellow-400 opacity-20 blur-lg rounded-2xl"></div>
+              <div className="absolute  bg-yellow-950 opacity-20 blur-lg rounded-2xl"></div>
               <iframe
               width="560"
               height="315"
