@@ -2,6 +2,7 @@ import Link from "next/link"
 import { IoMdMusicalNote, IoIosContacts } from "react-icons/io";
 import { FaSpotify } from "react-icons/fa";
 
+// This is the Navbar component that will be used in the application
 export const Navbar = () => {
     return(
         <>

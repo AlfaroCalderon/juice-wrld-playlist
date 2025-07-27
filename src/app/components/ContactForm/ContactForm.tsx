@@ -60,7 +60,7 @@ export const ContactForm = () => {
             <div className="flex flex-col justify-center items-center p-4">
                 <h1 className="text-2xl font-bold mb-4">We Value Your Feedback</h1>
                 <p className="text-lg">
-                    Share your thoughts and comments with us! Your feedback helps us improve and bring you the best Juice WRLD experience. By submitting your comment, you'll also receive updates about new releases and exclusive news related to Juice WRLD.
+                    Share your thoughts and comments with us! Your feedback helps us improve and bring you the best Juice WRLD experience. By submitting your comment, you will also receive updates about new releases and exclusive news related to Juice WRLD.
                 </p>
             </div>
             <div className="flex justify-center items-center">

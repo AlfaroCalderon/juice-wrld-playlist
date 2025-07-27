@@ -1,6 +1,7 @@
 import { createSpotifyApi } from "@/api/spotify.api"
 import { APIResponse } from "@/types/spotify.types";
 
+// This function fetches the album data from Spotify API
 export const spotify = async ():Promise<APIResponse> => {
     try {
         const spotifyAPI = await createSpotifyApi()
